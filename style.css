@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+    box-sizing: border-box;
+}
+/* 
+header{
+    background-color: black;
+    width: 100%;
+    height: 40px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+    display: flex;
+}
+header h1{
+    width: 100%;
+    color: white ;
+    margin-left: 80px;
+    font-size: 15px;
+    justify-content: center;
+}
+header ul{
+    width: 200%;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    display: flex;
+
+ 
+}
+header ul li{
+    margin-top: 10px;
+    padding-right: 40px;
+    color: white;
+    margin-bottom: 10px;
+}
+nav{
+    width: 100%;
+    height: 80px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+    display: flex;
+}
+.logo{
+    height: 40px;
+    margin-left: 70px;
+    cursor: pointer;
+}
+nav ul{
+    width: 50%;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    display: flex;
+    
+}
+nav ul li{
+    margin-top: 10px;
+    padding-right: 80px;
+    color:black;
+    margin-bottom: 10px;
+}
+
+#bt1{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    background:black;
+    color: white;
+    margin-right: 20px;
+    transform: translate(-50%);
+
+}
+#bt2{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    padding: 10px 30px;
+    border: 1px solid black;
+    outline: 20px;
+    border-radius: 5px;
+    background: transparent;
+    color: black;
+    margin-right: 20px;
+    font: bold;
+
+
+}
+#bt3{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    padding: 20px 40px;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    background: transparent;
+    color: black;
+    margin-right: 20px;
+    font: bold;
+
+}
+.main{
+    background-color: aquamarine;
+    height: 700px;
+    width: 1600px;
+}
+h3{
+    margin-left: 100px;
+    font-size:xx-large;
+}
+/*  <div class=" bg-red-50 h-[150vh] w-[100wh] mt-1">
+      <section class="w-[47%]  bg-gray-950">
+          <img src="card1.jpg" class=" h-[50vh] w-[90%] blur-sm ml-[150px]  mt-[30px] rounded-2xl relative "  />
+          <p  class=" h-[50vh] w-[70%] ml-[250px]   text-4xl ">Customer identity cloud</p>
+          <p class="text-gray-400 h-[50vh] w-[80%] ml-[250px]   text-xl ">built to tackel both consumer and SaaS Apps Across every Industry. Authenticate, Authrized,and secure Acess for application,devices, and users.</p>
+      </section>
+      <!-- <img src="card1.jpg" class="h-[90vh] absolute ml-[110vh] w-[100vh] rounded-2xl "> -->
+    </div> */
+/* div class=" flex h-[50vh] w-[80%] bg-gradient-to-r from-black via-blue-900 to-black ml-[150px] mt-[150px] mb-[200px] rounded-xl">
+        <section class="">
+          <h3 class="text-white font-semibold px-[90px] py-[150px] text-4xl">Best of Oktane Webinars</h3>
+
+        </section>
+        <section>
+          <p class="text-white mb-4 mr-[15px] w-[35rem] text-2xl font-medium mt-[7rem]">
+            Register to catch the highlights, insights, and biggest takeaways from the Identity event of the year.
+          </p>
+          <div class="flex ">
+            <button class="w-[12rem] h-[4rem] mr-4 bg-white text-black font-bold duration-[.5s] hover:bg-gray-950 hover:text-white rounded-lg">for everyone</button>
+            <button class="w-[12rem] h-[4rem] border border-white-600 rounded-lg duration-[.5s] hover:border-gray-600 hover:text-gray-900">for developers</button>
+            </button>
+          </div>
+        </section>
+       </div>
+    <div class="ml-[140px]">
+       <h3 class="text-black  text-5xl ">Here’s what our awesome customers say</h3>
+      </div>
+       <div class=" flex h-[60vh] w-[80%] bg-gray-900 ml-[150px] mt-[150px]  rounded-2xl">
+        <section class="bg-slate-600 h-[60vh] w-[50%] rounded-2xl ">
+          <img src="my.png" class="h-[60vh] w-[100%] rounded-2xl">
+          <img src="card4.jpg" class="h-[50vh]  ml-[90px] -mt-[380px] w-[70%] rounded-2xl"> 
+        
+        </section>
+        <section class="w-[50%]  rounded-2xl text-white font-bold">
+          <h1 class="px-[40px] py-[40px] text-xl">NAVAN</h1>
+          <p  class="px-[40px] py-[40px] text-xl">"Scalling effortlessly with okta freed us to change the way we work"</p>
+          <p  class="px-[40px] py-[40px] text-xl">Kim huffman <br>CIO,Navan</p>
+          <button class="underline  ml-8 text-xl">learn more about our customers</button>
+        </section>
+      </div>
+       </div> */
